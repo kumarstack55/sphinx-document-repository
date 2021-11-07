@@ -8,6 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.9"
 Sphinx = "^4.2.0"
 sphinx-shiguredo-theme = {git = "https://github.com/shiguredo/sphinx_shiguredo_theme.git", rev = "develop"}
+furo = "^2021.10.9"
 
 [tool.poetry.dev-dependencies]
 
