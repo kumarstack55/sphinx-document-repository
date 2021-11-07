@@ -7,6 +7,7 @@ authors = ["Your Name <you@example.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 Sphinx = "^4.2.0"
+sphinx-shiguredo-theme = {git = "https://github.com/shiguredo/sphinx_shiguredo_theme.git", rev = "develop"}
 
 [tool.poetry.dev-dependencies]
 
